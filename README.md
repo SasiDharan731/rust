@@ -1,2 +1,2 @@
-# rust
+# Rust
 Me learning rust
